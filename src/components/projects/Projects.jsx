@@ -14,14 +14,14 @@ export default function Projects() {
           {/* <div className="pinfone"> */}
           <h3>Nykaa Fashion(clone)</h3>
           <p>
-          An E-commerce website for purchasing clothings & electronic gadgets
+          An E-commerce website for purchasing clothings & electronic gadgets. It has login, filter, dynamic cart, various product page and payment functionality.
             </p>
             {/* </div> */}
           <h4>Tech Stack</h4>
           <p>HTML5 . CSS3 . Javascript . Local Storage</p>
           <div className="card_btn">
             <button><a target="_blank" href="https://keen-clarke-eefd2c.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/Sourav12061999/nykaafashion"> CODE</a></button>
+            <button><a target="_blank" href="https://github.com/aashishkumar1/Nykaafashion_clone"> CODE</a></button>
           </div>
         </div>
           </div>
@@ -35,7 +35,7 @@ export default function Projects() {
         <div className="pinf">
         <h3>Faasos(clone)</h3>
           <p>
-          A website to buy food online from faasos restaurants
+          A website to buy food online from faasos restaurants. It has signin, signup, search, filter, dynamic cart, live location features, coupons for payment.
            </p>
           <h4>Tech Stack</h4>
           <p>HTML . CSS . Javascript . Local Storage</p>
@@ -48,24 +48,24 @@ export default function Projects() {
 
       
 
-   {/*   <div className="pcards">
+   <div className="pcards">
         <div className="pimg">
-          <img src={"assets/lakme.png"} alt="" />
+          <img src={"assets/expensetracker.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>LAKME(clone)</h3>
+        <h3>Expense Tracker</h3>
           <p>
-            A clone of Zoomcar is a self-drive car rental service.
+            It is an expense tracker app. In this, you can view expenses with filter and also store your expenses.
             </p>
           <h4>Tech Stack</h4>
-          <p>HTML5 . CSS . JavaScript . Localstorage</p>
+          <p>REACT . CSS </p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://tumblrclone.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href=" https://github.com/nkil123/lakme_clone"> CODE</a></button>
+            <button><a target="_blank" href="https://expense-tracker122.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href=" https://github.com/aashishkumar1/ExpenseManager"> CODE</a></button>
           </div>
         </div>
       </div>
-  */}
+  
 
 
          
