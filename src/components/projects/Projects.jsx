@@ -65,7 +65,24 @@ export default function Projects() {
           </div>
         </div>
       </div>
-  
+     
+      <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/reactmeals.png"} alt="" />
+        </div>
+        <div className="pinf">
+        <h3>React Meals</h3>
+          <p>
+          A responsive food order app with dynamic cart and checkout form with validation. Firebase is used to fetch meals and post user and cart data on order confirmation.
+           </p>
+          <h4>Tech Stack</h4>
+          <p>React . CSS . Firebase</p>
+          <div className="card_btn">
+            <button><a target="_blank" href="https://reactmealsbyaashish.netlify.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/aashishkumar1/Food-Order-App"> CODE</a></button>
+          </div>
+        </div>
+      </div>
 
 
          
